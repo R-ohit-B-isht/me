@@ -1,4 +1,6 @@
-<line timestamp="00:00.00" is_valid="1">
+<?xml version="1.0" encoding="UTF-8"?>
+<transcript lang="english">
+<line timestamp="01:19.93" is_valid="1">
 <word timestamp="" is_valid="1">doccor</word>
 <word timestamp="" is_valid="1">is</word>
 <word timestamp="" is_valid="1">a</word>
@@ -233,7 +235,7 @@
 <word timestamp="" is_valid="1">up</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="01:19.93" is_valid="1">
+<line timestamp="01:26.89" is_valid="1">
 <word timestamp="" is_valid="1">and</word>
 <word timestamp="" is_valid="1">then</word>
 <word timestamp="" is_valid="1">i</word>
@@ -252,7 +254,7 @@
 <word timestamp="" is_valid="1">wart</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="01:26.89" is_valid="1">
+<line timestamp="01:46.37" is_valid="1">
 <word timestamp="" is_valid="1">this</word>
 <word timestamp="" is_valid="1">is</word>
 <word timestamp="" is_valid="1">awsom</word>
@@ -310,7 +312,7 @@
 <word timestamp="" is_valid="1">challenge</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="01:46.37" is_valid="1">
+<line timestamp="01:56.09" is_valid="1">
 <word timestamp="" is_valid="1">this</word>
 <word timestamp="" is_valid="1">is</word>
 <word timestamp="" is_valid="1">obviously</word>
@@ -343,7 +345,7 @@
 <word timestamp="" is_valid="1">easy</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="01:56.09" is_valid="1">
+<line timestamp="02:04.07" is_valid="1">
 <word timestamp="" is_valid="1">of</word>
 <word timestamp="" is_valid="1">the</word>
 <word timestamp="" is_valid="1">ball</word>
@@ -369,7 +371,7 @@
 <word timestamp="" is_valid="1">environment</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="02:04.07" is_valid="1">
+<line timestamp="02:07.94" is_valid="1">
 <word timestamp="" is_valid="1">i</word>
 <word timestamp="" is_valid="1">played</word>
 <word timestamp="" is_valid="1">setafs</word>
@@ -383,7 +385,7 @@
 <word timestamp="" is_valid="1">past</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="02:07.94" is_valid="1">
+<line timestamp="02:20.08" is_valid="1">
 <word timestamp="" is_valid="1">either</word>
 <word timestamp="" is_valid="1">directly</word>
 <word timestamp="" is_valid="1">on</word>
@@ -420,7 +422,7 @@
 <word timestamp="" is_valid="1">easily</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="02:20.08" is_valid="1">
+<line timestamp="02:23.64" is_valid="1">
 <word timestamp="" is_valid="1">however</word>
 <word timestamp="" is_valid="1">over</word>
 <word timestamp="" is_valid="1">the</word>
@@ -436,7 +438,7 @@
 <word timestamp="" is_valid="1">often</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="02:23.64" is_valid="1">
+<line timestamp="02:29.91" is_valid="1">
 <word timestamp="" is_valid="1">basically</word>
 <word timestamp="" is_valid="1">i</word>
 <word timestamp="" is_valid="1">am</word>
@@ -460,7 +462,7 @@
 <word timestamp="" is_valid="1">you</word>
 <word timestamp="" is_valid="1">py</word>
 </line>
-<line timestamp="02:29.91" is_valid="1">
+<line timestamp="02:41.81" is_valid="1">
 <word timestamp="" is_valid="1">asically</word>
 <word timestamp="" is_valid="1">used</word>
 <word timestamp="" is_valid="1">tocker</word>
@@ -506,7 +508,7 @@
 <word timestamp="" is_valid="1">f</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="02:41.81" is_valid="1">
+<line timestamp="03:07.25" is_valid="1">
 <word timestamp="" is_valid="1">itso</word>
 <word timestamp="" is_valid="1">now</word>
 <word timestamp="" is_valid="1">that</word>
@@ -598,7 +600,7 @@
 <word timestamp="" is_valid="1">that</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="03:07.25" is_valid="1">
+<line timestamp="03:12.63" is_valid="1">
 <word timestamp="" is_valid="1">but</word>
 <word timestamp="" is_valid="1">the</word>
 <word timestamp="" is_valid="1">docker</word>
@@ -620,7 +622,7 @@
 <word timestamp="" is_valid="1">work</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="03:12.63" is_valid="1">
+<line timestamp="03:19.11" is_valid="1">
 <word timestamp="" is_valid="1">getting</word>
 <word timestamp="" is_valid="1">it</word>
 <word timestamp="" is_valid="1">on</word>
@@ -646,7 +648,7 @@
 <word timestamp="" is_valid="1">ocean</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="03:19.11" is_valid="1">
+<line timestamp="03:37.70" is_valid="1">
 <word timestamp="" is_valid="1">lets</word>
 <word timestamp="" is_valid="1">show</word>
 <word timestamp="" is_valid="1">for</word>
@@ -724,7 +726,7 @@
 <word timestamp="" is_valid="1">ocean</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="03:37.70" is_valid="1">
+<line timestamp="03:47.13" is_valid="1">
 <word timestamp="" is_valid="1">anyway</word>
 <word timestamp="" is_valid="1">to</word>
 <word timestamp="" is_valid="1">install</word>
@@ -765,7 +767,7 @@
 <word timestamp="" is_valid="1">out</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="03:47.13" is_valid="1">
+<line timestamp="03:51.44" is_valid="1">
 <word timestamp="" is_valid="1">but</word>
 <word timestamp="" is_valid="1">besides</word>
 <word timestamp="" is_valid="1">docker</word>
@@ -782,7 +784,7 @@
 <word timestamp="" is_valid="1">two</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="03:51.44" is_valid="1">
+<line timestamp="03:55.61" is_valid="1">
 <word timestamp="" is_valid="1">there</word>
 <word timestamp="" is_valid="1">are</word>
 <word timestamp="" is_valid="1">steps</word>
@@ -799,7 +801,7 @@
 <word timestamp="" is_valid="1">to</word>
 <word timestamp="" is_valid="1">some</word>
 </line>
-<line timestamp="03:55.61" is_valid="1">
+<line timestamp="04:00.92" is_valid="1">
 <word timestamp="" is_valid="1">rice</word>
 <word timestamp="" is_valid="1">toka</word>
 <word timestamp="" is_valid="1">gives</word>
@@ -814,7 +816,7 @@
 <word timestamp="" is_valid="1">containers</word>
 <word timestamp="" is_valid="1">to</word>
 </line>
-<line timestamp="04:00.92" is_valid="1">
+<line timestamp="04:08.63" is_valid="1">
 <word timestamp="" is_valid="1">a</word>
 <word timestamp="" is_valid="1">compose</word>
 <word timestamp="" is_valid="1">use</word>
@@ -838,7 +840,7 @@
 <word timestamp="" is_valid="1">systems</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="04:08.63" is_valid="1">
+<line timestamp="04:23.71" is_valid="1">
 <word timestamp="" is_valid="1">so</word>
 <word timestamp="" is_valid="1">lets</word>
 <word timestamp="" is_valid="1">do</word>
@@ -902,7 +904,7 @@
 <word timestamp="" is_valid="1">it</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="04:23.71" is_valid="1">
+<line timestamp="04:37.33" is_valid="1">
 <word timestamp="" is_valid="1">so</word>
 <word timestamp="" is_valid="1">clon</word>
 <word timestamp="" is_valid="1">tat</word>
@@ -947,7 +949,7 @@
 <word timestamp="" is_valid="1">and</word>
 <word timestamp="" is_valid="1">wine</word>
 </line>
-<line timestamp="04:37.33" is_valid="1">
+<line timestamp="04:49.79" is_valid="1">
 <word timestamp="" is_valid="1">at</word>
 <word timestamp="" is_valid="1">thats</word>
 <word timestamp="" is_valid="1">a</word>
@@ -991,7 +993,7 @@
 <word timestamp="" is_valid="1">file</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="04:49.79" is_valid="1">
+<line timestamp="04:53.39" is_valid="1">
 <word timestamp="" is_valid="1">i</word>
 <word timestamp="" is_valid="1">also</word>
 <word timestamp="" is_valid="1">use</word>
@@ -1004,7 +1006,7 @@
 <word timestamp="" is_valid="1">name</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="04:53.39" is_valid="1">
+<line timestamp="04:57.67" is_valid="1">
 <word timestamp="" is_valid="1">called</word>
 <word timestamp="" is_valid="1">it</word>
 <word timestamp="" is_valid="1">like</word>
@@ -1024,7 +1026,7 @@
 <word timestamp="" is_valid="1">fil</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="04:57.67" is_valid="1">
+<line timestamp="05:10.02" is_valid="1">
 <word timestamp="" is_valid="1">can</word>
 <word timestamp="" is_valid="1">see</word>
 <word timestamp="" is_valid="1">its</word>
@@ -1067,7 +1069,7 @@
 <word timestamp="" is_valid="1">repository</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="05:10.02" is_valid="1">
+<line timestamp="05:44.58" is_valid="1">
 <word timestamp="" is_valid="1">then</word>
 <word timestamp="" is_valid="1">we</word>
 <word timestamp="" is_valid="1">specify</word>
@@ -1174,7 +1176,7 @@
 <word timestamp="" is_valid="1">happened</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="05:44.58" is_valid="1">
+<line timestamp="05:49.52" is_valid="1">
 <word timestamp="" is_valid="1">and</word>
 <word timestamp="" is_valid="1">this</word>
 <word timestamp="" is_valid="1">now</word>
@@ -1194,7 +1196,7 @@
 <word timestamp="" is_valid="1">time</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="05:49.52" is_valid="1">
+<line timestamp="05:55.11" is_valid="1">
 <word timestamp="" is_valid="1">with</word>
 <word timestamp="" is_valid="1">tocker</word>
 <word timestamp="" is_valid="1">images</word>
@@ -1213,7 +1215,7 @@
 <word timestamp="" is_valid="1">hours</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="05:55.11" is_valid="1">
+<line timestamp="06:12.91" is_valid="1">
 <word timestamp="" is_valid="1">now</word>
 <word timestamp="" is_valid="1">we</word>
 <word timestamp="" is_valid="1">can</word>
@@ -1279,7 +1281,7 @@
 <word timestamp="" is_valid="1">container</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="06:12.91" is_valid="1">
+<line timestamp="06:32.12" is_valid="1">
 <word timestamp="" is_valid="1">rmtautomatically</word>
 <word timestamp="" is_valid="1">remove</word>
 <word timestamp="" is_valid="1">the</word>
@@ -1343,7 +1345,7 @@
 <word timestamp="" is_valid="1">y</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="06:32.12" is_valid="1">
+<line timestamp="06:52.37" is_valid="1">
 <word timestamp="" is_valid="1">its</word>
 <word timestamp="" is_valid="1">running</word>
 <word timestamp="" is_valid="1">now</word>
@@ -1414,7 +1416,7 @@
 <word timestamp="" is_valid="1">machine</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="06:52.37" is_valid="1">
+<line timestamp="07:00.24" is_valid="1">
 <word timestamp="" is_valid="1">and</word>
 <word timestamp="" is_valid="1">now</word>
 <word timestamp="" is_valid="1">you</word>
@@ -1441,7 +1443,7 @@
 <word timestamp="" is_valid="1">enteployment</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="07:00.24" is_valid="1">
+<line timestamp="07:03.98" is_valid="1">
 <word timestamp="" is_valid="1">on</word>
 <word timestamp="" is_valid="1">the</word>
 <word timestamp="" is_valid="1">other</word>
@@ -1459,7 +1461,7 @@
 <word timestamp="" is_valid="1">environment</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="07:03.98" is_valid="1">
+<line timestamp="07:20.31" is_valid="1">
 <word timestamp="" is_valid="1">i</word>
 <word timestamp="" is_valid="1">have</word>
 <word timestamp="" is_valid="1">also</word>
@@ -1530,7 +1532,7 @@
 <word timestamp="" is_valid="1">to</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="07:20.31" is_valid="1">
+<line timestamp="07:30.89" is_valid="1">
 <word timestamp="" is_valid="1">this</word>
 <word timestamp="" is_valid="1">one</word>
 <word timestamp="" is_valid="1">we</word>
@@ -1573,7 +1575,7 @@
 <word timestamp="" is_valid="1">on</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="07:30.89" is_valid="1">
+<line timestamp="07:36.24" is_valid="1">
 <word timestamp="" is_valid="1">d</word>
 <word timestamp="" is_valid="1">now</word>
 <word timestamp="" is_valid="1">you</word>
@@ -1595,7 +1597,7 @@
 <word timestamp="" is_valid="1">neet</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="07:36.24" is_valid="1">
+<line timestamp="07:40.97" is_valid="1">
 <word timestamp="" is_valid="1">ikink</word>
 <word timestamp="" is_valid="1">thick</word>
 <word timestamp="" is_valid="1">quite</word>
@@ -1616,7 +1618,7 @@
 <word timestamp="" is_valid="1">run</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="07:40.97" is_valid="1">
+<line timestamp="08:16.43" is_valid="1">
 <word timestamp="" is_valid="1">i</word>
 <word timestamp="" is_valid="1">am</word>
 <word timestamp="" is_valid="1">doing</word>
@@ -1738,7 +1740,7 @@
 <word timestamp="" is_valid="1">programs</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="08:16.43" is_valid="1">
+<line timestamp="08:31.71" is_valid="1">
 <word timestamp="" is_valid="1">p</word>
 <word timestamp="" is_valid="1">trice</word>
 <word timestamp="" is_valid="1">is</word>
@@ -1797,7 +1799,7 @@
 <word timestamp="" is_valid="1">cares</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="08:31.71" is_valid="1">
+<line timestamp="08:36.07" is_valid="1">
 <word timestamp="" is_valid="1">running</word>
 <word timestamp="" is_valid="1">now</word>
 <word timestamp="" is_valid="1">so</word>
@@ -1816,7 +1818,7 @@
 <word timestamp="" is_valid="1">now</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="08:36.07" is_valid="1">
+<line timestamp="08:44.91" is_valid="1">
 <word timestamp="" is_valid="1">megi</word>
 <word timestamp="" is_valid="1">we</word>
 <word timestamp="" is_valid="1">can</word>
@@ -1846,7 +1848,7 @@
 <word timestamp="" is_valid="1">shall</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="08:44.91" is_valid="1">
+<line timestamp="08:48.01" is_valid="1">
 <word timestamp="" is_valid="1">and</word>
 <word timestamp="" is_valid="1">this</word>
 <word timestamp="" is_valid="1">is</word>
@@ -1862,7 +1864,7 @@
 <word timestamp="" is_valid="1">in</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="08:48.01" is_valid="1">
+<line timestamp="08:55.72" is_valid="1">
 <word timestamp="" is_valid="1">and</word>
 <word timestamp="" is_valid="1">now</word>
 <word timestamp="" is_valid="1">you</word>
@@ -1891,7 +1893,7 @@
 <word timestamp="" is_valid="1">thal</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="08:55.72" is_valid="1">
+<line timestamp="08:59.23" is_valid="1">
 <word timestamp="" is_valid="1">looks</word>
 <word timestamp="" is_valid="1">and</word>
 <word timestamp="" is_valid="1">feels</word>
@@ -1905,7 +1907,7 @@
 <word timestamp="" is_valid="1">server</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="08:59.23" is_valid="1">
+<line timestamp="09:03.46" is_valid="1">
 <word timestamp="" is_valid="1">but</word>
 <word timestamp="" is_valid="1">obviously</word>
 <word timestamp="" is_valid="1">you</word>
@@ -1922,7 +1924,7 @@
 <word timestamp="" is_valid="1">container</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="09:03.46" is_valid="1">
+<line timestamp="09:09.47" is_valid="1">
 <word timestamp="" is_valid="1">way</word>
 <word timestamp="" is_valid="1">when</word>
 <word timestamp="" is_valid="1">you</word>
@@ -1944,7 +1946,7 @@
 <word timestamp="" is_valid="1">folther</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="09:09.47" is_valid="1">
+<line timestamp="09:19.97" is_valid="1">
 <word timestamp="" is_valid="1">i</word>
 <word timestamp="" is_valid="1">will</word>
 <word timestamp="" is_valid="1">call</word>
@@ -1986,7 +1988,7 @@
 <word timestamp="" is_valid="1">confusion</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="09:19.97" is_valid="1">
+<line timestamp="09:42.00" is_valid="1">
 <word timestamp="" is_valid="1">remember</word>
 <word timestamp="" is_valid="1">that</word>
 <word timestamp="" is_valid="1">on</word>
@@ -2068,7 +2070,7 @@
 <word timestamp="" is_valid="1">container</word>
 <word timestamp="" is_valid="1">on</word>
 </line>
-<line timestamp="09:42.00" is_valid="1">
+<line timestamp="09:48.54" is_valid="1">
 <word timestamp="" is_valid="1">linuc</word>
 <word timestamp="" is_valid="1">sat</word>
 <word timestamp="" is_valid="1">up</word>
@@ -2101,7 +2103,7 @@
 <word timestamp="" is_valid="1">stuff</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="09:48.54" is_valid="1">
+<line timestamp="09:57.80" is_valid="1">
 <word timestamp="" is_valid="1">so</word>
 <word timestamp="" is_valid="1">now</word>
 <word timestamp="" is_valid="1">i</word>
@@ -2136,7 +2138,7 @@
 <word timestamp="" is_valid="1">response</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="09:57.80" is_valid="1">
+<line timestamp="10:03.52" is_valid="1">
 <word timestamp="" is_valid="1">and</word>
 <word timestamp="" is_valid="1">then</word>
 <word timestamp="" is_valid="1">i</word>
@@ -2155,7 +2157,7 @@
 <word timestamp="" is_valid="1">response</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="10:03.52" is_valid="1">
+<line timestamp="10:12.42" is_valid="1">
 <word timestamp="" is_valid="1">i</word>
 <word timestamp="" is_valid="1">think</word>
 <word timestamp="" is_valid="1">this</word>
@@ -2190,7 +2192,7 @@
 <word timestamp="" is_valid="1">container</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="10:12.42" is_valid="1">
+<line timestamp="10:23.64" is_valid="1">
 <word timestamp="" is_valid="1">because</word>
 <word timestamp="" is_valid="1">this</word>
 <word timestamp="" is_valid="1">is</word>
@@ -2232,7 +2234,7 @@
 <word timestamp="" is_valid="1">password</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="10:23.64" is_valid="1">
+<line timestamp="10:29.00" is_valid="1">
 <word timestamp="" is_valid="1">this</word>
 <word timestamp="" is_valid="1">is</word>
 <word timestamp="" is_valid="1">the</word>
@@ -2255,7 +2257,7 @@
 <word timestamp="" is_valid="1">bit</word>
 <word timestamp="" is_valid="1"></word>
 </line>
-<line timestamp="10:29.00" is_valid="1">
+<line timestamp="10:43.58" is_valid="1">
 <word timestamp="" is_valid="1">wy</word>
 <word timestamp="" is_valid="1">heres</word>
 <word timestamp="" is_valid="1">a</word>
@@ -2304,7 +2306,7 @@
 <word timestamp="" is_valid="1">target</word>
 <word timestamp="" is_valid="1">so</word>
 </line>
-<line timestamp="10:43.58" is_valid="1">
+<line timestamp="10:50.42" is_valid="1">
 <word timestamp="" is_valid="1">we</word>
 <word timestamp="" is_valid="1">develope</word>
 <word timestamp="" is_valid="1">that</word>
@@ -2333,7 +2335,7 @@
 <word timestamp="" is_valid="1">executed</word>
 <word timestamp="" is_valid="1">now</word>
 </line>
-<line timestamp="10:50.42" is_valid="1">
+<line timestamp="11:29.84" is_valid="1">
 <word timestamp="" is_valid="1">stead</word>
 <word timestamp="" is_valid="1">of</word>
 <word timestamp="" is_valid="1">connecting</word>
@@ -2392,3 +2394,4 @@
 <word timestamp="" is_valid="1">namespae</word>
 <word timestamp="" is_valid="1"></word>
 </line>
+</transcript>
