@@ -1,4 +1,20 @@
 #file_name = "malhar_time.txt"
+with open('time_o', 'r') as fr:
+    # reading line by line
+    lines = fr.readlines()
+    lines = lines[:-1] 
+    # pointer for position
+    ptr = 1
+  
+    # opening in writing mode
+    with open('time', 'w') as fw:
+        for line in lines:
+            
+            # we want to remove 5th line
+            if ptr not in [1,2,3,4,5,6,7,8,9]:
+                fw.write(line)
+            ptr += 1
+
 file_name = "./time"
 
 time_list = []
