@@ -1,14 +1,14 @@
 #file_name = "malhar_time.txt"
-file_name = "text"
+file_name = "./text.txt"
 
 time_list = []
 with open(file_name, 'r', encoding='utf-8',  errors='ignore') as f:
     for line in f:
-        time = line.split("\n")[0].split("_")[1]
+        time = line.split("\n")[0].split("_")[0]
         time_list.append(time)
 print(len(time_list))
 
-file_name = "text_.txt"
+file_name = "text.txt"
 sentence_list = []
 with open(file_name, 'r', encoding='utf-8',  errors='ignore') as f:
     for line in f:

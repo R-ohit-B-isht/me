@@ -14,8 +14,9 @@ model = Wav2Vec2ForCTC.from_pretrained("Harveenchadha/vakyansh-wav2vec2-indian-e
 
 dir_list = os.listdir("./")
 #print(dir_list)
-file_name = "text_1.txt"
+file_name = "text.txt"
 wfile = open(file_name, 'w+', encoding='utf-8')
+ts=[]
 count = 0
 for x in dir_list:
     if x.endswith(".wav"):
@@ -30,7 +31,13 @@ for x in dir_list:
     predicted_ids = torch.argmax(logits, dim =-1)
     #decode the audio to generate text
     transcriptions = processor.decode(predicted_ids[0])
-    wfile.write(x+"\t"+transcriptions+"\n")
+    y = transcriptions.replace('<s>','')
+    # wfile.write(x+"\t"+y+"\n")
+    ts.append(x+"\t"+y+"\n")
     print(psutil.Process().memory_info().rss / (1024 * 1024))
-    print(transcriptions)
+    print(y)
 print(count)
+
+ts.sort()
+for i in ts:
+    wfile.write(i)
