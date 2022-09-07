@@ -58,6 +58,8 @@ def home():
         os.system(xml_script)
         remover="rm ./*.wav"
         os.system(remover)
+        remover="rm -rf ./uploads/"
+        os.system(remover)
         return "post"
     else:
         return "get"
