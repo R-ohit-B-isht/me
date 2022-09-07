@@ -1,5 +1,5 @@
 #file_name = "malhar_time.txt"
-with open('time_o.txt', 'r') as fr:
+with open('./uploads/audio/time_o.txt', 'r') as fr:
     # reading line by line
     lines = fr.readlines()
     lines = lines[:-1] 
