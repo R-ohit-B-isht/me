@@ -8,8 +8,8 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 def home():
     if request.method=="POST":
         # print(request.get_data())
-        print( request.mimetype)
-        file = request.data
+        # print( request.files.get())
+        file =  request.files.get('file')
         
         with open('./uploads/a.txt', 'w') as f:
             f.write(str(file))
