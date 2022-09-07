@@ -1,4 +1,4 @@
-from flask import Flask ,request
+from flask import Flask ,request,send_from_directory
 import os
 from werkzeug.utils import secure_filename
 import shutil
@@ -35,7 +35,7 @@ def home():
 
         audio_split="mp3splt -s -p th=-40,min=0.4,rm=50_50,trackjoin=2.5 "+generated_audiofile+" -o @f-@n -d "+"./uploads/audio/mp3"
         os.system(audio_split)
-        audio_split_text="mp3splt -s -P -p th=-40,min=0.4,rm=50_50,trackjoin=2.5 -o @f_@m:@s.@h_@M:@S.@H "+generated_audiofile+" > "+"./uploads/audio/time_o.txt"
+        audio_split_text="mp3splt -s -P -p th=-40,min=0.4,rm=50_50,trackjoin=2.5 -o _@m:@s.@h_@M:@S.@H "+generated_audiofile+" > "+"./uploads/audio/time_o.txt"
         os.system(audio_split_text)
         os.makedirs("./uploads/audio/mp3/waves")
         
@@ -60,7 +60,7 @@ def home():
         os.system(remover)
         remover="rm -rf ./uploads/"
         os.system(remover)
-        return "post"
+        return send_from_directory("./", "G_2.xml", as_attachment=True)
     else:
         return "get"
     

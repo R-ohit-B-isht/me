@@ -21,7 +21,7 @@ file_name = "time.txt"
 time_list = []
 with open(file_name, 'r', encoding='utf-8',  errors='ignore') as f:
     for line in f:
-        time = line.split("\n")[0].split("_")[2]
+        time = line.split("\n")[0].split("_")[1]
         # time = time.replace('created" ','')
         time_list.append(time)
 print(len(time_list))
