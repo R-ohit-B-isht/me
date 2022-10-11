@@ -30,7 +30,7 @@
          close(fd);
          return -1;
      }
-while(1){
+
      /* Step3: Start receiving data. */
      printf("Let us wait for a remote client to send some data\n");
      ret_val = recvfrom(fd, buf, DATA_BUFFER, 0,
@@ -40,7 +40,7 @@ while(1){
      } else {
          printf("recvfrom() failed [%s]\n", strerror(errno));
      }
- }
+
      /* Last step: close the socket */
      close(fd);
      return 0;

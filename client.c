@@ -4,7 +4,7 @@
  #include <netinet/in.h> 
  #include <netdb.h> 
 
- #define DATA_BUFFER "Mona Lisa was painted by Leonardo da Vinci"
+ #define DATA_BUFFER "Hello there"
 
  int main () {
      struct sockaddr_in saddr;
@@ -26,6 +26,7 @@
      saddr.sin_addr = *((struct in_addr *)host->h_addr);
 
      /* Step2: send some data */
+     while(1){
      ret_val = sendto(fd,DATA_BUFFER, strlen(DATA_BUFFER) + 1, 0, 
          (struct sockaddr *)&saddr, sizeof(struct sockaddr_in));
      if (ret_val != -1) {
@@ -33,7 +34,7 @@
      } else {
          printf("sendto() failed [%s]\n", strerror(errno));
      }
-
+     }
      /* Last step: close the socket */
      close(fd);
      return 0;
